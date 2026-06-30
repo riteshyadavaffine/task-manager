@@ -10,8 +10,12 @@ This project implements a full-stack task manager with:
 - **Database**: PostgreSQL + Prisma ORM
 - **Authentication**: JWT in httpOnly cookies
 
-## 📁 Project Structure
 
+## Live URL:
+https://task-manager-omega-jade-46.vercel.app/
+backend(https://tranquil-dedication-production-7635.up.railway.app)
+
+## 📁 Project Structure
 ```
 task-manager/
 ├── backend/          # Express API server
